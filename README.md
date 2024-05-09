@@ -1,7 +1,6 @@
 # 🚀 Welcome to Fullmetal Fred's Forge!
 
-Hey there! 👋 I'm Fred, your go-to for crafting simple tech solutions with a touch of flair.
-Feel free to fork, star, or contribute to my repositories! Let's explore the future together and create some kickass tech that impacts our world.
+Hey there! 👋 I'm Fred!
 
 ### 🌟 About Me
 
@@ -9,9 +8,23 @@ I'm a seasoned engineer and technology leader with over 10 years of experience m
 
 ```yaml
 Name: Fred  
-Roles: Engineer, Tinkerer, Problem-Solver  
-Passions: Cloud, Edge, Containers, IoT  
-Hobbies: Sci-fi, Fantasy, Manga, Anime, and Power / Progressive Metal 🤘
+Roles:
+  - Engineer
+  - Tinkerer
+  - Problem-Solver  
+Passions:
+  - AV (that's audiovisual, not antivirus)
+  - Observability (o11y)
+  - Cloud
+  - Edge
+  - Containers
+  - IoT
+Hobbies:
+  - Sci-fi
+  - Fantasy
+  - Manga
+  - Anime
+  - Power / Progressive Metal 🤘
 ```
 
 ### 🛠️ What I'm Up To
@@ -26,12 +39,16 @@ Hobbies: Sci-fi, Fantasy, Manga, Anime, and Power / Progressive Metal 🤘
 
 - Former Micron and VMware wizard 🏢
 - Certified CTS-D, Zabbix, and Azure 🌐
-- Secretly wishes to pilot a Gundam 🤖
+- Secretly wishes to pilot a Gundam (but I mean who doesn't) 🤖
+- Bachelor's degree in ~~Computer Science~~ ~~Electrical Engineering~~ Theatre.
 
 ### 📚 Favorite Quotes
 
-> "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke  
 > “Cause change and lead; accept change and survive; resist change and die.” — Ray Noorda
+
+> "You cannot change fate. However, you can rise to meet it, if you so choose." — Hii-sama, Princess Mononoke
+
+> "Your life is yours alone, rise up and live it.” ― Richard Rahl, Faith of the Fallen
 
 
 ---
